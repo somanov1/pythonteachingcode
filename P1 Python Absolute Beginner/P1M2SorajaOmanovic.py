@@ -6,4 +6,4 @@ def fishstore(fish, price):
 fish_entry = input("Enter fish type: ")
 price_entry = input("Enter price: ")
 
-print("Report for Soraja Omanovic. " + fishstore(fish_entry, fish_price))
+print("Report for Soraja Omanovic. " + fishstore(fish_entry, price_entry))
